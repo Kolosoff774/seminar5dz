@@ -1,0 +1,15 @@
+B:\GB обучение git\Program\helloConsole\bin\Debug\net6.0\helloConsole.exe
+B:\GB обучение git\Program\helloConsole\bin\Debug\net6.0\helloConsole.deps.json
+B:\GB обучение git\Program\helloConsole\bin\Debug\net6.0\helloConsole.runtimeconfig.json
+B:\GB обучение git\Program\helloConsole\bin\Debug\net6.0\helloConsole.dll
+B:\GB обучение git\Program\helloConsole\bin\Debug\net6.0\helloConsole.pdb
+B:\GB обучение git\Program\helloConsole\obj\Debug\net6.0\helloConsole.csproj.AssemblyReference.cache
+B:\GB обучение git\Program\helloConsole\obj\Debug\net6.0\helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+B:\GB обучение git\Program\helloConsole\obj\Debug\net6.0\helloConsole.AssemblyInfoInputs.cache
+B:\GB обучение git\Program\helloConsole\obj\Debug\net6.0\helloConsole.AssemblyInfo.cs
+B:\GB обучение git\Program\helloConsole\obj\Debug\net6.0\helloConsole.csproj.CoreCompileInputs.cache
+B:\GB обучение git\Program\helloConsole\obj\Debug\net6.0\helloConsole.dll
+B:\GB обучение git\Program\helloConsole\obj\Debug\net6.0\refint\helloConsole.dll
+B:\GB обучение git\Program\helloConsole\obj\Debug\net6.0\helloConsole.pdb
+B:\GB обучение git\Program\helloConsole\obj\Debug\net6.0\helloConsole.genruntimeconfig.cache
+B:\GB обучение git\Program\helloConsole\obj\Debug\net6.0\ref\helloConsole.dll
