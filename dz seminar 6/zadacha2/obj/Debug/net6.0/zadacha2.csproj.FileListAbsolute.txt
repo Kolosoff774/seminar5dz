@@ -1,0 +1,15 @@
+B:\GB обучение git\Program\dz seminar 6\zadacha2\bin\Debug\net6.0\zadacha2.exe
+B:\GB обучение git\Program\dz seminar 6\zadacha2\bin\Debug\net6.0\zadacha2.deps.json
+B:\GB обучение git\Program\dz seminar 6\zadacha2\bin\Debug\net6.0\zadacha2.runtimeconfig.json
+B:\GB обучение git\Program\dz seminar 6\zadacha2\bin\Debug\net6.0\zadacha2.dll
+B:\GB обучение git\Program\dz seminar 6\zadacha2\bin\Debug\net6.0\zadacha2.pdb
+B:\GB обучение git\Program\dz seminar 6\zadacha2\obj\Debug\net6.0\zadacha2.csproj.AssemblyReference.cache
+B:\GB обучение git\Program\dz seminar 6\zadacha2\obj\Debug\net6.0\zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+B:\GB обучение git\Program\dz seminar 6\zadacha2\obj\Debug\net6.0\zadacha2.AssemblyInfoInputs.cache
+B:\GB обучение git\Program\dz seminar 6\zadacha2\obj\Debug\net6.0\zadacha2.AssemblyInfo.cs
+B:\GB обучение git\Program\dz seminar 6\zadacha2\obj\Debug\net6.0\zadacha2.csproj.CoreCompileInputs.cache
+B:\GB обучение git\Program\dz seminar 6\zadacha2\obj\Debug\net6.0\zadacha2.dll
+B:\GB обучение git\Program\dz seminar 6\zadacha2\obj\Debug\net6.0\refint\zadacha2.dll
+B:\GB обучение git\Program\dz seminar 6\zadacha2\obj\Debug\net6.0\zadacha2.pdb
+B:\GB обучение git\Program\dz seminar 6\zadacha2\obj\Debug\net6.0\zadacha2.genruntimeconfig.cache
+B:\GB обучение git\Program\dz seminar 6\zadacha2\obj\Debug\net6.0\ref\zadacha2.dll
